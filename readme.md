@@ -8,6 +8,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raelbmb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelbmb&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+<h3 align="center" >TECNOLOGIAS</h3>
     
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="80" width="80" src="assets/img/html.svg">
@@ -22,7 +24,7 @@
 <br>
 
 <div style="background-color: red" >
-<h3 align="center" >TECNOLOGIAS</h3>
+
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCSDV9_3p9bKB5rAAN94wV_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
