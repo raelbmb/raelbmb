@@ -13,7 +13,7 @@ Seja muito bem-vindo(a) ao meu perfil!!!😄
   <img align="center" alt="PC" height="80" width="80" src="assets/img/computador1.svg">
   <img align="center" alt="HTML" height="80" width="80" src="assets/img/html.svg">
   <img align="center" alt="CSS" height="80" width="80" src="assets/img/css.svg">
-  <img align="center" alt="Js" height="80" width="80" src="assets/img/javascript.svg">
+  <img align="center" style="padding:10" alt="Js" height="80" width="80" src="assets/img/javascript.svg">
   <img align="center" alt="boot" height="80" width="80" src="assets/img/bootstrap.svg">
   <img align="center" alt="react" height="80" width="80" src="assets/img/react.svg">
   <img align="center" alt="git" height="80" width="80" src="assets/img/git.svg">
