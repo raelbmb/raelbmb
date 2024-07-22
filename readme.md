@@ -15,7 +15,9 @@
     
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="80" width="80" src="assets/img/html.svg">
+  <img align="center" alt="HTML" height="80" width="80" src="assets/img/html2.svg">
   <img align="center" alt="CSS" height="80" width="80" src="assets/img/css.svg">
+  <img align="center" alt="CSS" height="80" width="80" src="assets/img/css2.svg">
   <img align="center" alt="Js" height="80" width="80" src="assets/img/javascript.svg">
   <img align="center" alt="boot" height="80" width="80" src="assets/img/bootstrap.svg">
   <img align="center" alt="react" height="80" width="80" src="assets/img/react.svg">
