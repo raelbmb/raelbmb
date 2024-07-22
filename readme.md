@@ -1,7 +1,7 @@
-<h1 align="center">Olá meu nome é Israel Borges 👋👋👋👋</h1>
-##Sou um desenvolvedor Front-End, e aqui você irá encontrar um pouco das minhas habilidades, trabalhos  e experiência como meu portfólio.
+<h1 align="center">Olá meu nome é Israel Borges 👋</h1>
+<h2>Sou um desenvolvedor Front-End, e aqui você irá encontrar um pouco das minhas habilidades, trabalhos  e experiência como meu portfólio.</h2>
 
-###Seja muito bem-vindo(a) ao meu perfil!!!😄
+<h3>Seja muito bem-vindo(a) ao meu perfil!!!😄</h3>
 
  <div>
    <a href="https://github.com/raelbmb">
