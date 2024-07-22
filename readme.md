@@ -1,7 +1,7 @@
 <h1 align="center">Olá meu nome é Israel Borges 👋</h1>
-<h2>Sou um desenvolvedor Front-End, e aqui você irá encontrar um pouco das minhas habilidades, trabalhos  e experiência como meu portfólio.</h2>
+<h2>Sou um desenvolvedor Front-End, e aqui você irá encontrar um pouco das minhas habilidades, trabalhos  e experiência com o meu portfólio.</h2>
 
-<h3>Seja muito bem-vindo(a) ao meu perfil!!!😄</h3>
+<h3>Seja muito bem-vindo(a) ao meu perfil! 😄</h3>
 
  <div>
    <a href="https://github.com/raelbmb">
@@ -20,10 +20,14 @@
 </div>
  
 <br>
+
+<div style="background-color=red" >
+<h3>TECNOLOGIAS</h3>
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCSDV9_3p9bKB5rAAN94wV_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/raelbmb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/raelbmb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/israel-borges-b5ba0a224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 </div>
