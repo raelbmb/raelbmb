@@ -9,7 +9,7 @@ Seja muito bem-vindo(a) ao meu perfil!!!😄
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelbmb&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="PC" height="80" width="80" src="assets/img/computador1.svg">
   <img align="center" alt="HTML" height="80" width="80" src="assets/img/html.svg">
   <img align="center" alt="CSS" height="80" width="80" src="assets/img/css.svg">
