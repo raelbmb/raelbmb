@@ -25,7 +25,7 @@ Seja muito bem-vindo(a) ao meu perfil!!!😄
  
 <br>
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCSDV9_3p9bKB5rAAN94wV_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/raelbmb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/raelbmb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
