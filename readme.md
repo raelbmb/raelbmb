@@ -21,8 +21,8 @@
  
 <br>
 
-<div style="background-color=red" >
-<h3>TECNOLOGIAS</h3>
+<div style="background-color: red" >
+<h3 align="center" >TECNOLOGIAS</h3>
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCSDV9_3p9bKB5rAAN94wV_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
